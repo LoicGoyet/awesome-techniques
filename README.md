@@ -12,7 +12,8 @@ List nice techniques for front-end usages
 
 ## Animation
 * [Flip animation in css](https://davidwalsh.name/css-flip)
-* [Transition between pages](http://miguel-perez.github.io/smoothState.js/index.html)
+* [Transition between pages in Jquery](http://miguel-perez.github.io/smoothState.js/index.html)
+* [Transition between pages in AngularJs](https://scotch.io/tutorials/animating-angularjs-apps-ngview)
 
 ## Guidelines
 * [SASS Guidelines](http://sass-guidelin.es/)
