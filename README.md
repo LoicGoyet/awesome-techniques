@@ -12,3 +12,6 @@ List nice techniques for front-end usages
 
 ## Animation
 * [Flip animation in css](https://davidwalsh.name/css-flip)
+
+## Guidelines
+* [SASS Guidelines](http://sass-guidelin.es/)
