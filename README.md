@@ -1,6 +1,9 @@
 # Awsome front-end techniques list
 List nice techniques for front-end usages
 
+## Box model
+* [Guide to DPI](http://sebastien-gabriel.com/designers-guide-to-dpi/)
+
 ## Typography
 * [The vertical align css property](http://bitsofco.de/the-vertical-align-property/)
 
