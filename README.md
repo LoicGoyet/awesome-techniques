@@ -23,6 +23,10 @@ List nice techniques for front-end usages
 
 ## Guidelines
 * [SASS Guidelines](http://sass-guidelin.es/)
+### Naming conventions
+*[BEM](https://en.bem.info/method/)
+*[OOCSS](http://oocss.org/)
+*[AMCSSS](http://glenmaddern.com/articles/introducing-am-css)
 
 ## Unclassified
 * [Add rules to stylesheets in JavaScript](https://davidwalsh.name/add-rules-stylesheets)
