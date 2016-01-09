@@ -24,3 +24,5 @@ List nice techniques for front-end usages
 ## Guidelines
 * [SASS Guidelines](http://sass-guidelin.es/)
 
+## Unclassified
+* [Add rules to stylesheets in JavaScript](https://davidwalsh.name/add-rules-stylesheets)
