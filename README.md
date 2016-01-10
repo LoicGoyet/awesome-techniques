@@ -6,6 +6,7 @@ List nice techniques for front-end usages
 
 ## Typography
 * [The vertical align css property](http://bitsofco.de/the-vertical-align-property/)
+* [Responsive font-size with min and max](https://eduardoboucas.com/blog/2015/06/18/viewport-sized-typography-with-minimum-and-maximum-sizes.html)
 
 ## Responsive
 * [Mobile touch Keyboard](http://baymard.com/blog/mobile-touch-keyboards)
