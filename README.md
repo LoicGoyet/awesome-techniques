@@ -18,6 +18,7 @@ List nice techniques for front-end usages
 * [Flip animation in css](https://davidwalsh.name/css-flip)
 * [Transition between pages in jQuery](http://miguel-perez.github.io/smoothState.js/index.html)
 * [Transition between pages in AngularJs](https://scotch.io/tutorials/animating-angularjs-apps-ngview)
+* [Gooey effect](https://css-tricks.com/shape-blobbing-css/)
 
 ## Colors
 * [Mixin colors with sass](http://alistapart.com/article/mixing-color-for-the-web-with-sass)
