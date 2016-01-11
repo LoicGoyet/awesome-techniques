@@ -24,6 +24,7 @@ List nice techniques for front-end usages
 
 ## Guidelines
 * [SASS Guidelines](http://sass-guidelin.es/)
+* [Using utility classes](http://davidtheclark.com/on-utility-classes/)
 
 ### Naming conventions
 * [BEM](https://en.bem.info/method/)
