@@ -13,6 +13,7 @@ List nice techniques for front-end usages
 
 ## Images
 * [Placeholders for picture elements](http://daverupert.com/2015/12/intrinsic-placeholders-with-picture/)
+* [Responsive images](http://alistapart.com/article/responsive-images-in-practice)
 
 ## Animation
 * [Flip animation in css](https://davidwalsh.name/css-flip)
