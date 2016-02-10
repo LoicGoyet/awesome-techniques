@@ -3,6 +3,7 @@ List nice techniques for front-end usages
 
 ## Rendering
 * [Guide to DPI](http://sebastien-gabriel.com/designers-guide-to-dpi/)
+* [Loading CSS without blocking render](http://keithclark.co.uk/articles/loading-css-without-blocking-render/)
 
 ## Typography
 * [The vertical align css property](http://bitsofco.de/the-vertical-align-property/)
