@@ -1,7 +1,7 @@
 # Awsome front-end techniques list
 List nice techniques for front-end usages
 
-## Box model
+## Rendering
 * [Guide to DPI](http://sebastien-gabriel.com/designers-guide-to-dpi/)
 
 ## Typography
