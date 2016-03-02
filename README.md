@@ -16,6 +16,7 @@ List nice techniques for front-end usages
 * [Placeholders for picture elements](http://daverupert.com/2015/12/intrinsic-placeholders-with-picture/)
 * [Responsive images](http://alistapart.com/article/responsive-images-in-practice)
 * [SVG fallback & art direction wt <picture>](https://sarasoueidan.com/blog/svg-picture/)
+* [Efficient Image Resizing with ImageMagick](https://www.smashingmagazine.com/2015/06/efficient-image-resizing-with-imagemagick/)
 
 ## Animation
 * [Flip animation in css](https://davidwalsh.name/css-flip)
