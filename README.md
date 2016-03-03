@@ -1,4 +1,4 @@
-# Awsome front-end techniques list
+# Awesome techniques
 List nice techniques for front-end usages
 
 ## Rendering
