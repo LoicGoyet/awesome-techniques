@@ -9,6 +9,9 @@ List nice techniques for front-end usages
 * [The vertical align css property](http://bitsofco.de/the-vertical-align-property/)
 * [Responsive font-size with min and max](https://eduardoboucas.com/blog/2015/06/18/viewport-sized-typography-with-minimum-and-maximum-sizes.html)
 
+## Selectors
+* [Quantity Ordering with CSS](https://www.smashingmagazine.com/2015/07/quantity-ordering-with-css/)
+
 ## Responsive
 * [Mobile touch Keyboard](http://baymard.com/blog/mobile-touch-keyboards)
 
