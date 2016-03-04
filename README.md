@@ -12,6 +12,9 @@ List nice techniques for front-end usages
 ## Selectors
 * [Quantity Ordering with CSS](https://www.smashingmagazine.com/2015/07/quantity-ordering-with-css/)
 
+## Forms
+* [AngularJS Form Validation with ngMessages](https://scotch.io/tutorials/angularjs-form-validation-with-ngmessages)
+
 ## Responsive
 * [Mobile touch Keyboard](http://baymard.com/blog/mobile-touch-keyboards)
 
