@@ -31,11 +31,9 @@ List nice techniques for front-end usages
 ## Colors
 * [Mixin colors with sass](http://alistapart.com/article/mixing-color-for-the-web-with-sass)
 
-## Guidelines
+## Guidelines && Naming conventions
 * [SASS Guidelines](http://sass-guidelin.es/)
 * [Using utility classes](http://davidtheclark.com/on-utility-classes/)
-
-### Naming conventions
 * [BEM](https://en.bem.info/method/)
 * [OOCSS](http://oocss.org/)
 * [AMCSSS](http://glenmaddern.com/articles/introducing-am-css)
