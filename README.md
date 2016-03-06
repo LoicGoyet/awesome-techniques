@@ -19,6 +19,7 @@ List nice techniques for front-end usages
 * [Mobile touch Keyboard](http://baymard.com/blog/mobile-touch-keyboards)
 
 ## Images
+* [SVG on the web - A Practical Guide](https://svgontheweb.com/)
 * [Placeholders for picture elements](http://daverupert.com/2015/12/intrinsic-placeholders-with-picture/)
 * [Responsive images](http://alistapart.com/article/responsive-images-in-practice)
 * [SVG fallback & art direction wt <picture>](https://sarasoueidan.com/blog/svg-picture/)
