@@ -18,6 +18,7 @@ List nice techniques for front-end usages
 
 ## Responsive
 * [Mobile touch Keyboard](http://baymard.com/blog/mobile-touch-keyboards)
+* [Importing CSS Breakpoints Into JavaScript](https://www.lullabot.com/articles/importing-css-breakpoints-into-javascript)
 
 ## Images
 * [SVG on the web - A Practical Guide](https://svgontheweb.com/)
