@@ -50,3 +50,4 @@ List nice techniques for front-end usages
 ## Unclassified
 * [Add rules to stylesheets in JavaScript](https://davidwalsh.name/add-rules-stylesheets)
 * [Context menu in html and js](http://webdesign.tutsplus.com/tutorials/introducing-the-html5-menu-and-menuitem-elements--cms-22269)
+* [Pie charts in SVG and CSS](https://www.smashingmagazine.com/2015/07/designing-simple-pie-charts-with-css/)
