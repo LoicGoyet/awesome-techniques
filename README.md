@@ -27,12 +27,13 @@ List nice techniques for front-end usages
 * [SVG fallback & art direction wt <picture>](https://sarasoueidan.com/blog/svg-picture/)
 * [Efficient Image Resizing with ImageMagick](https://www.smashingmagazine.com/2015/06/efficient-image-resizing-with-imagemagick/)
 
-## Animation
+## Animation & effects
 * [Flip animation in css](https://davidwalsh.name/css-flip)
 * [Transition between pages in jQuery](http://miguel-perez.github.io/smoothState.js/index.html)
 * [Transition between pages in AngularJs](https://scotch.io/tutorials/animating-angularjs-apps-ngview)
 * [Gooey effect](https://css-tricks.com/shape-blobbing-css/)
 * [Jank Free, collection of techniques for smooth animations](http://jankfree.org/)
+* [Introducing CSS scroll snap point](https://css-tricks.com/introducing-css-scroll-snap-points/)
 
 ## Colors
 * [Mixin colors with sass](http://alistapart.com/article/mixing-color-for-the-web-with-sass)
