@@ -43,6 +43,7 @@ List nice techniques for front-end usages
 * [SASS Guidelines](http://sass-guidelin.es/)
 * [Using utility classes](http://davidtheclark.com/on-utility-classes/)
 * [BEM](https://en.bem.info/method/)
+* [Battling BEM: 10 Common Problems And How To Avoid Them](https://www.smashingmagazine.com/2016/06/battling-bem-extended-edition-common-problems-and-how-to-avoid-them/)
 * [OOCSS](http://oocss.org/)
 * [AMCSSS](http://glenmaddern.com/articles/introducing-am-css)
 
