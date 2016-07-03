@@ -47,6 +47,7 @@ List nice techniques for front-end usages
 * [Battling BEM: 10 Common Problems And How To Avoid Them](https://www.smashingmagazine.com/2016/06/battling-bem-extended-edition-common-problems-and-how-to-avoid-them/)
 * [OOCSS](http://oocss.org/)
 * [AMCSSS](http://glenmaddern.com/articles/introducing-am-css)
+* [Let's write beautiful CSS comments](https://seesparkbox.com/foundry/lets_write_beautiful_css_comments)
 
 ## The Future
 * [Container Queries](http://alistapart.com/article/container-queries-once-more-unto-the-breach)
