@@ -39,6 +39,7 @@ List nice techniques for front-end usages
 
 ## Colors
 * [Mixin colors with sass](http://alistapart.com/article/mixing-color-for-the-web-with-sass)
+* [Creating dynamically theme-able websites using CSS currentColor](http://johnm.io/blog/creating-themeable-websites-using-currentcolor/)
 
 ## Guidelines & Naming conventions
 * [SASS Guidelines](http://sass-guidelin.es/)
