@@ -37,6 +37,7 @@ List nice techniques for front-end usages
 * [Gooey effect](https://css-tricks.com/shape-blobbing-css/)
 * [Jank Free, collection of techniques for smooth animations](http://jankfree.org/)
 * [Introducing CSS scroll snap point](https://css-tricks.com/introducing-css-scroll-snap-points/)
+* [The target trick](https://bitsofco.de/the-target-trick/)
 
 ## Colors
 * [Mixin colors with sass](http://alistapart.com/article/mixing-color-for-the-web-with-sass)
