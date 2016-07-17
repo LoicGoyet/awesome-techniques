@@ -28,6 +28,7 @@ List nice techniques for front-end usages
 * [SVG fallback & art direction wt <picture>](https://sarasoueidan.com/blog/svg-picture/)
 * [Efficient Image Resizing with ImageMagick](https://www.smashingmagazine.com/2015/06/efficient-image-resizing-with-imagemagick/)
 * [Using CSS’s object-fit and object-position Properties](https://www.sitepoint.com/using-css-object-fit-object-position-properties/)
+* [Punch-Out Avatar](http://adrianroselli.com/2016/06/punch-out-avatar.html)
 
 ## Animation & effects
 * [Flip animation in css](https://davidwalsh.name/css-flip)
