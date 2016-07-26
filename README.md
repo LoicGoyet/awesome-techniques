@@ -16,6 +16,7 @@ List nice techniques for front-end usages
 
 ## Forms
 * [AngularJS Form Validation with ngMessages](https://scotch.io/tutorials/angularjs-form-validation-with-ngmessages)
+* [Using the fieldset and legend elements](https://accessibility.blog.gov.uk/2016/07/22/using-the-fieldset-and-legend-elements/)
 
 ## Responsive
 * [Mobile touch Keyboard](http://baymard.com/blog/mobile-touch-keyboards)
