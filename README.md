@@ -39,6 +39,7 @@ List nice techniques for front-end usages
 * [Jank Free, collection of techniques for smooth animations](http://jankfree.org/)
 * [Introducing CSS scroll snap point](https://css-tricks.com/introducing-css-scroll-snap-points/)
 * [The target trick](https://bitsofco.de/the-target-trick/)
+* [Smooth as Butter: Achieving 60 FPS Animations with CSS3](https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108#.ku9vnkit1)
 
 ## Colors
 * [Mixin colors with sass](http://alistapart.com/article/mixing-color-for-the-web-with-sass)
