@@ -55,6 +55,9 @@ List nice techniques for front-end usages
 * [AMCSSS](http://glenmaddern.com/articles/introducing-am-css)
 * [Let's write beautiful CSS comments](https://seesparkbox.com/foundry/lets_write_beautiful_css_comments)
 
+## Architecture
+[How to use the module pattern in your SCSS/SASS stylesheets](https://medium.com/@marcmintel/how-to-use-the-module-pattern-in-your-scss-sass-stylesheets-89fe38a6e1f3#.of4c8r7qb)
+
 ## The Future
 * [Container Queries](http://alistapart.com/article/container-queries-once-more-unto-the-breach)
 
