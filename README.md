@@ -18,6 +18,9 @@ List nice techniques for front-end usages
 * [AngularJS Form Validation with ngMessages](https://scotch.io/tutorials/angularjs-form-validation-with-ngmessages)
 * [Using the fieldset and legend elements](https://accessibility.blog.gov.uk/2016/07/22/using-the-fieldset-and-legend-elements/)
 
+## JavaScript features
+* [JavaScript Promises for Dummies](https://scotch.io/tutorials/javascript-promises-for-dummies)
+
 ## Responsive
 * [Mobile touch Keyboard](http://baymard.com/blog/mobile-touch-keyboards)
 * [Importing CSS Breakpoints Into JavaScript](https://www.lullabot.com/articles/importing-css-breakpoints-into-javascript)
