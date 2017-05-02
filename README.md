@@ -20,6 +20,7 @@ List nice techniques for front-end usages
 
 ## JavaScript features
 * [JavaScript Promises for Dummies](https://scotch.io/tutorials/javascript-promises-for-dummies)
+* [Using fetch](https://css-tricks.com/using-fetch/)
 
 ## Responsive
 * [Mobile touch Keyboard](http://baymard.com/blog/mobile-touch-keyboards)
