@@ -65,6 +65,8 @@ List nice techniques for front-end usages
 
 ## The Future
 * [Container Queries](http://alistapart.com/article/container-queries-once-more-unto-the-breach)
+* [Quoi de neuf dans
+ES2020 ?](https://tdd.github.io/pw2017-es2020/#/mainTitle)
 
 ## Unclassified
 * [Add rules to stylesheets in JavaScript](https://davidwalsh.name/add-rules-stylesheets)
