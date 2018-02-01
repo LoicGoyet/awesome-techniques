@@ -10,6 +10,7 @@ List nice techniques for front-end usages
 * [Responsive font-size with min and max](https://eduardoboucas.com/blog/2015/06/18/viewport-sized-typography-with-minimum-and-maximum-sizes.html)
 * [Responsive font-size with sass maps](https://www.smashingmagazine.com/2015/06/responsive-typography-with-sass-maps/)
 * [Improved font loading](https://webkit.org/blog/6643/improved-font-loading/)
+* [One File, Many Options: Using Variable Fonts on the Web](https://css-tricks.com/one-file-many-options-using-variable-fonts-web/?utm_source=CSS-Weekly&utm_campaign=Issue-300&utm_medium=email)
 
 ## Selectors
 * [Quantity Ordering with CSS](https://www.smashingmagazine.com/2015/07/quantity-ordering-with-css/)
