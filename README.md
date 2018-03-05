@@ -23,6 +23,7 @@ List nice techniques for front-end usages
 * [JavaScript Promises for Dummies](https://scotch.io/tutorials/javascript-promises-for-dummies)
 * [Using fetch](https://css-tricks.com/using-fetch/)
 * [The "this" Keyword](https://scotch.io/courses/10-need-to-know-javascript-concepts/the-this-keyword?utm_content=buffer44d28&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+* [Infinite Scroll in React Using Intersection Observer](https://scotch.io/tutorials/infinite-scroll-in-react-using-intersection-observer)
 
 ## Responsive
 * [Mobile touch Keyboard](http://baymard.com/blog/mobile-touch-keyboards)
