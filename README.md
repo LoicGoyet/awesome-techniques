@@ -7,7 +7,8 @@ List nice techniques for front-end usages
 
 ## Typography
 * [The vertical align css property](http://bitsofco.de/the-vertical-align-property/)
-* [Responsive font-size with min and max](https://eduardoboucas.com/blog/2015/06/18/viewport-sized-typography-with-minimum-and-maximum-sizes.html)
+* [
+sive font-size with min and max](https://eduardoboucas.com/blog/2015/06/18/viewport-sized-typography-with-minimum-and-maximum-sizes.html)
 * [Responsive font-size with sass maps](https://www.smashingmagazine.com/2015/06/responsive-typography-with-sass-maps/)
 * [Improved font loading](https://webkit.org/blog/6643/improved-font-loading/)
 * [One File, Many Options: Using Variable Fonts on the Web](https://css-tricks.com/one-file-many-options-using-variable-fonts-web/?utm_source=CSS-Weekly&utm_campaign=Issue-300&utm_medium=email)
@@ -38,6 +39,7 @@ List nice techniques for front-end usages
 * [SVG on the web - A Practical Guide](https://svgontheweb.com/)
 * [Placeholders for picture elements](http://daverupert.com/2015/12/intrinsic-placeholders-with-picture/)
 * [Responsive images](http://alistapart.com/article/responsive-images-in-practice)
+* [The anatomy of responsive images](https://jakearchibald.com/2015/anatomy-of-responsive-images/#varying-size-and-density)
 * [SVG fallback & art direction wt <picture>](https://sarasoueidan.com/blog/svg-picture/)
 * [Efficient Image Resizing with ImageMagick](https://www.smashingmagazine.com/2015/06/efficient-image-resizing-with-imagemagick/)
 * [Using CSS’s object-fit and object-position Properties](https://www.sitepoint.com/using-css-object-fit-object-position-properties/)
