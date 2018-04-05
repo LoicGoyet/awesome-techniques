@@ -55,6 +55,7 @@ sive font-size with min and max](https://eduardoboucas.com/blog/2015/06/18/viewp
 * [Introducing CSS scroll snap point](https://css-tricks.com/introducing-css-scroll-snap-points/)
 * [The target trick](https://bitsofco.de/the-target-trick/)
 * [Smooth as Butter: Achieving 60 FPS Animations with CSS3](https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108#.ku9vnkit1)
+* [Everything You Need to Know About the CSS will-change Property](https://dev.opera.com/articles/css-will-change-property/)
 
 ## Colors
 * [Mixin colors with sass](http://alistapart.com/article/mixing-color-for-the-web-with-sass)
