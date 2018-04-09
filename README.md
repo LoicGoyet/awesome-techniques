@@ -45,6 +45,7 @@ sive font-size with min and max](https://eduardoboucas.com/blog/2015/06/18/viewp
 * [Using CSS’s object-fit and object-position Properties](https://www.sitepoint.com/using-css-object-fit-object-position-properties/)
 * [Punch-Out Avatar](http://adrianroselli.com/2016/06/punch-out-avatar.html)
 * [Using CSS Clip Path to Create Interactive Effects](https://css-tricks.com/using-css-clip-path-create-interactive-effects/)
+* [feColorMatrix slowly (in french)](https://la-cascade.io/fecolormatrix-en-douceur/)
 
 ## Animation & effects
 * [Flip animation in css](https://davidwalsh.name/css-flip)
