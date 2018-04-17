@@ -24,6 +24,7 @@ sive font-size with min and max](https://eduardoboucas.com/blog/2015/06/18/viewp
 * [JavaScript Promises for Dummies](https://scotch.io/tutorials/javascript-promises-for-dummies)
 * [Using fetch](https://css-tricks.com/using-fetch/)
 * [The "this" Keyword](https://scotch.io/courses/10-need-to-know-javascript-concepts/the-this-keyword?utm_content=buffer44d28&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+* [ES6 Generators and Iterators: a Developer’s Guide](https://www.sitepoint.com/ecmascript-2015-generators-and-iterators/)
 
 ## JavaScript patterns
 * [Reducers VS Transducers](http://maksimivanov.com/posts/reducers-vs-transducers)
