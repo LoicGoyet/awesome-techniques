@@ -81,6 +81,10 @@ sive font-size with min and max](https://eduardoboucas.com/blog/2015/06/18/viewp
 * [Quoi de neuf dans
 ES2020 ?](https://tdd.github.io/pw2017-es2020/#/mainTitle)
 * [CSS Scroll Snap: What Is It? Do We Need It?](https://webdesign.tutsplus.com/tutorials/how-to-scroll-snap-using-css--cms-30333)
+  
+## React
+* [useEncapsulation
+or Why Your React Components Should Only Use Custom Hooks](https://kyleshevlin.com/use-encapsulation)
 
 ## Unclassified
 * [Add rules to stylesheets in JavaScript](https://davidwalsh.name/add-rules-stylesheets)
