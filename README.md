@@ -48,7 +48,7 @@ sive font-size with min and max](https://eduardoboucas.com/blog/2015/06/18/viewp
 * [Using CSS Clip Path to Create Interactive Effects](https://css-tricks.com/using-css-clip-path-create-interactive-effects/)
 * [feColorMatrix slowly (in french)](https://la-cascade.io/fecolormatrix-en-douceur/)
 
-## Animation & effects
+## Animation, interactions & effects
 * [Flip animation in css](https://davidwalsh.name/css-flip)
 * [Transition between pages in jQuery](http://miguel-perez.github.io/smoothState.js/index.html)
 * [Transition between pages in AngularJs](https://scotch.io/tutorials/animating-angularjs-apps-ngview)
@@ -58,6 +58,7 @@ sive font-size with min and max](https://eduardoboucas.com/blog/2015/06/18/viewp
 * [The target trick](https://bitsofco.de/the-target-trick/)
 * [Smooth as Butter: Achieving 60 FPS Animations with CSS3](https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108#.ku9vnkit1)
 * [Everything You Need to Know About the CSS will-change Property](https://dev.opera.com/articles/css-will-change-property/)
+* [Prevent Scroll Chaining With Overscroll Behavior](https://ishadeed.com/article/prevent-scroll-chaining-overscroll-behavior/)
 
 ## Colors
 * [Mixin colors with sass](http://alistapart.com/article/mixing-color-for-the-web-with-sass)
