@@ -90,6 +90,8 @@ or Why Your React Components Should Only Use Custom Hooks](https://kyleshevlin.c
 ## SEO
 * SEO for Devs from Monica Lent
   * [Lesson 0: Course Introduction](https://vimeo.com/628107778/a6a5b3dfaf)
+  * [Lesson 1, Part I: Why Should You Care About SEO?](https://vimeo.com/628141406/c85572092f)
+  * [Lesson 1, Part II: How Search Works (The Technical Explanation)](https://vimeo.com/628161349/ba10c02a96)
 
 ## Unclassified
 * [Add rules to stylesheets in JavaScript](https://davidwalsh.name/add-rules-stylesheets)
