@@ -94,6 +94,7 @@ or Why Your React Components Should Only Use Custom Hooks](https://kyleshevlin.c
   * [Lesson 1, Part II: How Search Works (The Technical Explanation)](https://vimeo.com/628161349/ba10c02a96)
   * [Lesson 2: Create Your Site Structure](https://vimeo.com/628125526/0948088416)
   * [Lesson 3: Server-side vs Client-side SEO](https://vimeo.com/634513150/912066ba43)
+  * [Lesson 4: Keyword Research with Free Tools](https://vimeo.com/634546959/b104791a64)
 
 ## Unclassified
 * [Add rules to stylesheets in JavaScript](https://davidwalsh.name/add-rules-stylesheets)
