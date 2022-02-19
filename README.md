@@ -31,6 +31,7 @@ sive font-size with min and max](https://eduardoboucas.com/blog/2015/06/18/viewp
 
 ## React patterns
 * [Infinite Scroll in React Using Intersection Observer](https://scotch.io/tutorials/infinite-scroll-in-react-using-intersection-observer)
+* [React component as prop: the right way™️](https://www.developerway.com/posts/react-component-as-prop-the-right-way)
 
 ## Responsive
 * [Mobile touch Keyboard](http://baymard.com/blog/mobile-touch-keyboards)
